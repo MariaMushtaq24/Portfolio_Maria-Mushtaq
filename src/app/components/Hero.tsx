@@ -4,9 +4,9 @@ import Link from "next/link";
 
 export default function Hero(){
     return(
-        <section className="bg-black bg-[url('/images/background1.jpg')] bg-cover bg-center flex flex-col md:flex-row justify-between items-center px-8 sm:py-16 md:py-28 sm:px-12 md:px-28">
+        <section className="bg-black bg-[url('/images/bluebackground.jpg')] bg-cover bg-center flex flex-col md:flex-row justify-between items-center px-8 sm:py-16 md:py-28 sm:px-12 md:px-28">
       <div className="w-full md:w-3/4 md:text-left text-center mb-8 md:mb-0">
-        <h1 className="text-2xl lg:text-4xl font-semi-bold text-purple-600 mb-8">
+        <h1 className="text-2xl lg:text-4xl font-semi-bold text-blue-500 mb-8">
           Hello, I'm Maria Mushtaq!
         </h1>
         <p className="text-md lg:text-xl text-gray-200 mb-8">
@@ -16,7 +16,7 @@ export default function Hero(){
         </p>
 
         <Link href= "/AboutMe">
-        <button className="bg-purple-800 w-[165px] text-white py-2 px-6 rounded-[8px] flex items-center gap-[20px] hover:bg-purple-500 hover:underline mx-auto sm:mx-0">
+        <button className="bg-blue-700 w-[165px] text-white py-2 px-6 rounded-[8px] flex items-center gap-[20px] hover:bg-blue-500 hover:underline mx-auto sm:mx-0">
             <span>About Me</span>
             <svg
               xmlns="http://www.w3.org/2000/svg"
