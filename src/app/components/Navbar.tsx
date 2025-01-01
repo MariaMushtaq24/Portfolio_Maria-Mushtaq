@@ -2,7 +2,7 @@ import Link from "next/link";
 
 export default function Navbar(){
     return(
-      <div className="bg-black border-b-2 border-blue-700 text-white py-4 px-4 sm:px-6 md:px-28 flex flex-col sm:flex-row sm:justify-between items-center">
+      <div className="bg-purple-900 border-b border-purple-700 text-white py-4 px-4 sm:px-6 md:px-28 flex flex-col sm:flex-row sm:justify-between items-center">
       <div className="text-lg sm:text-xl font-bold mb-4 sm:mb-0">
       <a href="/" className="hover:text-blue-700 transition duration-300">
       MARIA MUSHTAQ
@@ -26,7 +26,7 @@ export default function Navbar(){
           <a 
             href="/Maria Resume.pdf" 
             download
-            className="bg-blue-700 text-white px-4 py-2 hover:bg-blue-500 text-sm sm:text-base">
+            className="bg-purple-500 bg-opacity-40 text-white px-4 py-2 hover:bg-blue-500 text-sm sm:text-base">
             Download Resume
           </a>
         </div>

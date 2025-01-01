@@ -1,7 +1,7 @@
 export default function AboutMe() {
     return(
-        <section className="bg-black bg-[url('/images/bluebackground.jpg')] bg-cover bg-center px-8 sm:py-16 md:py-28 sm:px-12 md:px-28">
-            <div className="sm:text-sm md:text-md lg:text-lg text-gray-200 mb-8">
+        <section className="bg-white bg-[url('/images/background0.jpg')] bg-cover bg-center px-8 sm:py-16 md:py-28 sm:px-12 md:px-28">
+            <div className="sm:text-sm md:text-md lg:text-lg text-purple-700 font-semi-bold mb-8">
             <p> I am a dynamic professional with expertise in brand management, content creation, and research. 
                 As an Executive in Brand Management, I successfully enhanced engagement and optimized performance through innovative, data-driven strategies. 
                 With over 200 articles written across diverse niches, I bring substantial experience as a Freelance Content Writer, delivering impactful and tailored content.
