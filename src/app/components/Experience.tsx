@@ -1,15 +1,15 @@
 export default function Experience(){
     return(
-        <section className="bg-black bg-[url('/images/bluebackground.jpg')] bg-cover bg-center px-8 sm:py-16 md:py-28 sm:px-12 md:px-28">
+        <section className="bg-black bg-[url('/images/bb1.jpg')] bg-cover bg-center px-8 sm:py-16 md:py-28 sm:px-12 md:px-28">
             <div className="md:flex justify-between gap-14">
             <div className="w-full md:w-1/2">
-            <div className="text-md lg:text-xl text-blue-500 font-bold mb-8">
+            <div className="text-md lg:text-xl text-yellow-600 font-bold mb-8">
                 <p>
                 🟪 EXPERIENCE
                 </p>
             </div>
             <div className="text-md lg:text-lg text-gray-200 font-semi-bold mb-8">
-                <p className="font-bold text-blue-500">
+                <p className="font-bold text-yellow-600">
                 Executive Brand Management, SysCrowd
                 </p>
                 <p>
@@ -23,7 +23,7 @@ export default function Experience(){
             </div>
 
             <div className="text-md lg:text-lg text-gray-200 font-semi-bold mb-8">
-                <p className="font-bold text-blue-500">
+                <p className="font-bold text-yellow-600">
                 Executive Research Analyst, Emeriosoft Tech
                 </p>
                 <p>
@@ -35,7 +35,7 @@ export default function Experience(){
             </div>
 
             <div className="text-md lg:text-lg text-gray-200 font-semi-bold mb-8">
-                <p className="font-bold text-blue-500">
+                <p className="font-bold text-yellow-600">
                 Freelance Content Writer and Copywriter
                 </p>
                 <li>
@@ -45,7 +45,7 @@ export default function Experience(){
             </div>
 
             <div className="text-md lg:text-lg text-gray-200 font-semi-bold mb-8">
-                <p className="font-bold text-blue-500">
+                <p className="font-bold text-yellow-600">
                 Ghostwriter for Peace Quarters Website
                 </p>
                 <li>
@@ -54,7 +54,7 @@ export default function Experience(){
             </div>
 
             <div className="text-md lg:text-lg text-gray-200 font-semi-bold mb-8">
-                <p className="font-bold text-blue-500">
+                <p className="font-bold text-yellow-600">
                 SEO Content Writer, Mabtech Digital Team
                 </p>
                 <p>
@@ -68,7 +68,7 @@ export default function Experience(){
 
 
             <div className="w-full md:w-1/2">
-            <div className="text-md lg:text-xl text-blue-500 font-bold mb-8">
+            <div className="text-md lg:text-xl text-yellow-600 font-bold mb-8">
                 <p>
                 🟪 EXPERTISE
                 </p>

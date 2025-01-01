@@ -1,6 +1,6 @@
 export default function AboutMe() {
     return(
-        <section className="bg-black bg-[url('/images/background1.jpg')] bg-cover bg-center px-8 sm:py-16 md:py-28 sm:px-12 md:px-28">
+        <section className="bg-black bg-[url('/images/bb1.jpg')] bg-cover bg-center px-8 sm:py-16 md:py-28 sm:px-12 md:px-28">
             <div className="sm:text-sm md:text-md lg:text-lg text-gray-200 mb-8">
             <p> I am a dynamic professional with expertise in brand management, content creation, and research. 
                 As an Executive in Brand Management, I successfully enhanced engagement and optimized performance through innovative, data-driven strategies. 
@@ -15,13 +15,13 @@ export default function AboutMe() {
 
             <div className="md:flex justify-between gap-14">
             <div className="w-full md:w-3/4">
-            <div className="text-md lg:text-xl text-purple-600 font-bold mb-8">
+            <div className="text-md lg:text-xl text-yellow-600 font-bold mb-8">
                 <p>
                 🟪 ACADEMIC PROFILE
                 </p>
             </div>
             <div className="text-md lg:text-lg text-gray-200 font-semi-bold mb-8">
-                <p className="font-bold text-purple-600">
+                <p className="font-bold text-yellow-600">
                 Master of Arts | International Relations (1st Division)
                 </p>
                 <p>
@@ -33,7 +33,7 @@ export default function AboutMe() {
             </div>
 
             <div className="text-md lg:text-lg text-gray-200 font-semi-bold mb-8">
-                <p className="font-bold text-purple-600">
+                <p className="font-bold text-yellow-600">
                 Bachelor of Arts | English Advanced, Political Science, Psychology (2nd Division)
                 </p>
                 <p>
@@ -45,7 +45,7 @@ export default function AboutMe() {
             </div>
 
             <div className="text-md lg:text-lg text-gray-200 font-semi-bold mb-8">
-                <p className="font-bold text-purple-600">
+                <p className="font-bold text-yellow-600">
                 Intermediate | Pre-medical (1st Division)
                 </p>
                 <p>
@@ -58,7 +58,7 @@ export default function AboutMe() {
             </div>
 
             <div className="text-md lg:text-lg text-gray-200 font-semi-bold mb-0">
-                <p className="font-bold text-purple-600">
+                <p className="font-bold text-yellow-600">
                 Matriculation | Science (A Grade)
                 </p>
                 <p>
@@ -70,17 +70,18 @@ export default function AboutMe() {
                 </p>
                 </div>
             </div>
+            <br></br>
 
 
             <div className="w-full md:w-2/4">
-            <div className="text-md lg:text-xl text-purple-600 font-bold mb-8">
+            <div className="text-md lg:text-xl text-yellow-600 font-bold mb-8">
                 <p>
                 🟪 COURSES
                 </p>
             </div>
 
             <div className="text-md lg:text-lg text-gray-200 font-semi-bold mb-8">
-                <p className="font-bold text-purple-600">
+                <p className="font-bold text-yellow-600">
                 Certified Applied Cloud Generative AI
                 </p>
                 <p>
@@ -92,7 +93,7 @@ export default function AboutMe() {
             </div>
 
             <div className="text-md lg:text-lg text-gray-200 font-semi-bold mb-8">
-                <p className="font-bold text-purple-600">
+                <p className="font-bold text-yellow-600">
                 Graphic Design Essentials
                 </p>
                 <p>
@@ -104,7 +105,7 @@ export default function AboutMe() {
             </div>
 
             <div className="text-md lg:text-lg text-gray-200 font-semi-bold">
-                <p className="font-bold text-purple-600">
+                <p className="font-bold text-yellow-600">
                 E-Commerce Development
                 </p>
                 <p>

@@ -16,7 +16,7 @@ export default function Hero(){
         </p>
 
         <Link href= "/AboutMe">
-        <button className="bg-yellow-700 w-[165px] text-white py-2 px-6 rounded-[8px] flex items-center gap-[20px] hover:bg-yellow-500 hover:underline mx-auto sm:mx-0">
+        <button className="bg-yellow-800 w-[165px] text-white py-2 px-6 rounded-[8px] flex items-center gap-[20px] hover:bg-yellow-600 hover:underline mx-auto sm:mx-0">
             <span>About Me</span>
             <svg
               xmlns="http://www.w3.org/2000/svg"
