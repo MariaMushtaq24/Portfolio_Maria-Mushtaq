@@ -17,7 +17,7 @@ export default function AboutMe() {
             <div className="w-full md:w-3/4">
             <div className="text-md lg:text-xl text-yellow-600 font-bold mb-8">
                 <p>
-                🟪 ACADEMIC PROFILE
+                ACADEMIC PROFILE
                 </p>
             </div>
             <div className="text-md lg:text-lg text-gray-200 font-semi-bold mb-8">
@@ -76,7 +76,7 @@ export default function AboutMe() {
             <div className="w-full md:w-2/4">
             <div className="text-md lg:text-xl text-yellow-600 font-bold mb-8">
                 <p>
-                🟪 COURSES
+                COURSES
                 </p>
             </div>
 

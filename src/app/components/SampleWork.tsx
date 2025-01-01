@@ -1,7 +1,7 @@
 export default function SampleWork() {
     return (
       <div className="bg-black bg-[url('/images/bb1.jpg')] bg-cover bg-center px-8 sm:py-16 md:py-28 sm:px-12 md:px-28">
-        <section className="flex justify-center gap-5 flex-wrap h-auto w-full p-4 mt-8">
+        <section className="flex justify-center gap-5 flex-wrap h-auto w-full p-4">
           <div className="h-auto w-[450px] flex flex-col items-center rounded-md shadow-2xl bg-black">
             <div
               className="h-80 w-full bg-cover bg-center rounded-t-md"
@@ -96,5 +96,5 @@ export default function SampleWork() {
         </section>
       </div>
     );
-  }
+  };
   

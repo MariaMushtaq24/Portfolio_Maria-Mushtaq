@@ -5,7 +5,7 @@ export default function Experience(){
             <div className="w-full md:w-1/2">
             <div className="text-md lg:text-xl text-yellow-600 font-bold mb-8">
                 <p>
-                🟪 EXPERIENCE
+                EXPERIENCE
                 </p>
             </div>
             <div className="text-md lg:text-lg text-gray-200 font-semi-bold mb-8">
@@ -70,7 +70,7 @@ export default function Experience(){
             <div className="w-full md:w-1/2">
             <div className="text-md lg:text-xl text-yellow-600 font-bold mb-8">
                 <p>
-                🟪 EXPERTISE
+                EXPERTISE
                 </p>
             </div>
             <div className="text-md lg:text-lg text-gray-200 font-semi-bold">
