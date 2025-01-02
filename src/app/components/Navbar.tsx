@@ -1,10 +1,11 @@
 import Link from "next/link";
+import "@fontsource/dancing-script/500.css";
 
 export default function Navbar(){
     return(
       <div className="bg-black border-b border-yellow-900 text-white py-4 px-4 sm:px-6 md:px-28 flex flex-col sm:flex-row sm:justify-between items-center">
       <div className="text-lg sm:text-xl font-bold mb-4 sm:mb-0">
-      <a href="/" className="hover:text-yellow-600">
+      <a href="/" className="font-script text-yellow-600 hover:underline">
       MARIA MUSHTAQ
       </a>
       </div>

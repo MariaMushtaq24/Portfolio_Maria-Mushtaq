@@ -12,6 +12,9 @@ const config: Config = {
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
+      fontFamily: {
+        script: ["Dancing Script", "cursive"], // Adding the font
+      },
     },
   },
   plugins: [],

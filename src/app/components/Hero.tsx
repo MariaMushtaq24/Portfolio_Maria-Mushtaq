@@ -1,12 +1,13 @@
 import React from "react";
 import Image from "next/image";
 import Link from "next/link";
+import "@fontsource/dancing-script/500.css";
 
 export default function Hero(){
     return(
         <section className="bg-black bg-[url('/images/bb1.jpg')] bg-cover bg-center flex flex-col md:flex-row justify-between items-center px-8 sm:py-16 md:py-28 sm:px-12 md:px-28">
       <div className="w-full md:w-3/4 md:text-left text-center mb-8 md:mb-0">
-        <h1 className="text-2xl lg:text-4xl font-semi-bold text-yellow-700 mb-8">
+        <h1 className="text-2xl lg:text-4xl font-script font-bold text-yellow-700 mb-8">
           Hello, I'm Maria Mushtaq!
         </h1>
         <p className="text-md lg:text-xl text-gray-200 mb-8">
