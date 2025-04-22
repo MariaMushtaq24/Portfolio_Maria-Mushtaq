@@ -61,6 +61,39 @@ export default function SampleWork() {
         <div className="h-auto w-[450px] flex flex-col items-center rounded-md shadow-2xl bg-black">
             <div
               className="h-80 w-full bg-cover bg-center rounded-t-md"
+              style={{ backgroundImage: "url('/images/PW Strength.png')" }}
+            ></div>
+            <div className="p-4 text-center">
+              <h3 className="text-yellow-600 font-bold">My Python Project: Password Strength Meter</h3>
+              <a
+                href="https://password-strength-meter-v3sgeb2zubzmkvyweers6n.streamlit.app/"
+                className="text-white hover:underline hover:text-yellow-600"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                View File
+              </a>
+            </div>
+            <div
+              className="h-80 w-full bg-cover bg-center rounded-t-md"
+              style={{ backgroundImage: "url('/images/Unit Converter.jpeg')" }}
+            ></div>
+            <div className="p-4 text-center">
+              <h3 className="text-yellow-600 font-bold">My Python Project: The Unit Converter</h3>
+              <a
+                href="https://unit-converter-aa5rh5hzz2f6je2svr6ycz.streamlit.app/#convert-length-weight-and-time-instantly"
+                className="text-white hover:underline hover:text-yellow-600"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                View File
+              </a>
+            </div>
+          </div>
+
+        <div className="h-auto w-[450px] flex flex-col items-center rounded-md shadow-2xl bg-black">
+            <div
+              className="h-80 w-full bg-cover bg-center rounded-t-md"
               style={{ backgroundImage: "url('/images/Sample2.png')" }}
             ></div>
             <div className="p-4 text-center">
